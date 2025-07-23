@@ -11,5 +11,5 @@
  6. search for a specific value
  7. display the list
 
- also i the program has a user driver menu.
+ also the program has a user driver menu.
  looking forward to more information on linked list and other data structures.
